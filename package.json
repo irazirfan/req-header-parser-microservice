@@ -12,7 +12,7 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "npm": "^3.10.8",
+    "npm": "^6.14.4",
     "locale": "^0.1.0",
     "negotiator": "^0.6.1",
     "ua-parser": "^0.3.5"
