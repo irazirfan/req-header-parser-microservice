@@ -8,7 +8,7 @@
 ### Example Usage: ###
 <https://ip-checker-api.herokuapp.com/api/whoami>
 
-###Example Output:
+### Example Output: ###
 ```
 {
   ipaddress: "127.0.0.1",
