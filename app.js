@@ -2,6 +2,9 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const chalk = require('chalk');
+const cors = require('cors');
+
+app.use(cors({optionsuccessStatus: 200}));
 
 app.get('/', (req, res, next) => res.sendFile(path.join(__dirname, '/index.html')));
 
