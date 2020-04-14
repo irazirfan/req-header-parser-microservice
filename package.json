@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Iraz Irfan",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
+    "npm": "^3.10.8",
     "locale": "^0.1.0",
     "negotiator": "^0.6.1",
     "ua-parser": "^0.3.5"
