@@ -13,12 +13,12 @@
 {
   ipaddress: "127.0.0.1",
   language: "en-US",
-  software: "Macintosh; Intel Mac OS X 10_11_6"
+  software: "Windows NT 10.0; Win64; x64"
 }
 ```
 ### Technologies Used: ###
-*Node.js
-*Express.js
+* Node.js
+* Express.js
 
 ### Developed for a Free Code Camp project. Original project idea link: ###
 <https://www.freecodecamp.com/challenges/request-header-parser-microservice>
